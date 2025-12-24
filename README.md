@@ -1,4 +1,23 @@
-## Hi there 👋
+# Hi, I'm Hauwa 👋
+
+🌱 I’m currently learning Python and Web Development  
+💻 Beginner developer building projects step by step  
+🚀 Interested in software development and problem-solving  
+
+## 🔧 Technologies & Tools
+- Python
+- HTML & CSS
+- Git & GitHub
+- VS Code / WebStorm
+
+## 📌 Current Goals
+- Build small Python projects
+- Improve my GitHub portfolio
+- Learn JavaScript next
+
+## 🤝 Let’s Connect
+- Open to learning, collaboration, and growth
+
 
 <!--
 **Jiddah-hub/Jiddah-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
