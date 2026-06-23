@@ -7,13 +7,14 @@
 ## 🔧 Technologies & Tools
 - Python
 - HTML & CSS
+- javascript
 - Git & GitHub
 - VS Code / WebStorm
 
 ## 📌 Current Goals
 - Build small Python projects
 - Improve my GitHub portfolio
-- Learn JavaScript next
+- Learn modern frontend libraries and frameworks 
 
 ## 🤝 Let’s Connect
 - Open to learning, collaboration, and growth
