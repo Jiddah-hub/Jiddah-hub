@@ -12,7 +12,7 @@
 - VS Code / WebStorm
 
 ## 📌 Current Goals
-- Build small Python projects
+- Build projects
 - Improve my GitHub portfolio
 - Learn modern frontend libraries and frameworks 
 
